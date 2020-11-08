@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5f85ae8588aa95427e72df2b"
+  },
+  "name": "10级工具",
+  "price": 10000000,
+  "owner": "qk"
+},{
+  "_id": {
+    "$oid": "5f885a28dea5fa38547fa9d0"
+  },
+  "name": "9级工具",
+  "price": 0,
+  "owner": "qk"
+}]

@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d26"
+  },
+  "name": "10级工具",
+  "property": "T",
+  "level": 10
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d27"
+  },
+  "name": "9级工具",
+  "property": "T",
+  "level": 9
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d28"
+  },
+  "name": "8级工具",
+  "property": "T",
+  "level": 8
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d29"
+  },
+  "name": "7级工具",
+  "property": "T",
+  "level": 7
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d2a"
+  },
+  "name": "6级工具",
+  "property": "T",
+  "level": 6
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d2b"
+  },
+  "name": "5级工具",
+  "property": "T",
+  "level": 5
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d2c"
+  },
+  "name": "4级工具",
+  "property": "T",
+  "level": 4
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d2d"
+  },
+  "name": "3级工具",
+  "property": "T",
+  "level": 3
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d2e"
+  },
+  "name": "2级工具",
+  "property": "T",
+  "level": 2
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d2f"
+  },
+  "name": "1级工具",
+  "property": "T",
+  "level": 1
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d30"
+  },
+  "name": "10级饰品",
+  "property": "A",
+  "level": 10
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d31"
+  },
+  "name": "9级饰品",
+  "property": "A",
+  "level": 9
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d32"
+  },
+  "name": "8级饰品",
+  "property": "A",
+  "level": 8
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d33"
+  },
+  "name": "7级饰品",
+  "property": "A",
+  "level": 7
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d34"
+  },
+  "name": "6级饰品",
+  "property": "A",
+  "level": 6
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d35"
+  },
+  "name": "5级饰品",
+  "property": "A",
+  "level": 5
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d36"
+  },
+  "name": "4级饰品",
+  "property": "A",
+  "level": 4
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d37"
+  },
+  "name": "3级饰品",
+  "property": "A",
+  "level": 3
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d38"
+  },
+  "name": "2级饰品",
+  "property": "A",
+  "level": 2
+},{
+  "_id": {
+    "$oid": "5f7d1fcb5826b9326a710d39"
+  },
+  "name": "1级饰品",
+  "property": "A",
+  "level": 1
+}]
